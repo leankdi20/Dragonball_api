@@ -1,0 +1,134 @@
+{
+        "goku": {
+            "id": 1,
+            "name": "Goku",
+            "raza": "Sayajin",
+            "planeta": "Tierra",
+            "vida": 100,
+            "image": "https://e1.pngegg.com/pngimages/928/471/png-clipart-super-goku-de-dragon-ball-z-byagus-9.png"
+        },
+         "goku ssj": {
+            "id": 2,
+            "name": "Goku ssj",
+            "raza": "Sayajin",
+            "planeta": "Tierra",
+            "vida": 500,
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b88f884e-d134-4606-a5ab-0eb9bcfaaa36/dg3ijou-038eb2c1-786a-4916-8090-662ea24f6518.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I4OGY4ODRlLWQxMzQtNDYwNi1hNWFiLTBlYjliY2ZhYWEzNlwvZGczaWpvdS0wMzhlYjJjMS03ODZhLTQ5MTYtODA5MC02NjJlYTI0ZjY1MTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W5SkKE_oFqIPjza36N9rGVbJLWt8OxOcs-qpbXhKDek"
+
+        },
+        "goku ssj 2": {
+            "id": 3,
+            "name": "Goku ssj 2",
+            "raza": "Sayajin",
+            "planeta": "Tierra",
+            "vida": 1500,
+            "image": "https://glbes.dokkaninfo.com/assets/global/es/character/card/1023460/card_1023460_character.png"
+        },
+        "goku ssj 3": {
+            "id": 4,
+            "name": "Goku ssj 3",
+            "raza": "Sayajin",
+            "planeta": "Tierra",
+            "vida": 3500,
+            "image": "https://e0.pxfuel.com/wallpapers/64/61/desktop-wallpaper-super-saiyan-3-png-lr-super-saiyan-3-goku-goku-ssj-3.jpg"
+        },
+        "goku ssj god": {
+            "id": 5,
+            "name": "Goku ssj god",
+            "raza": "Sayajin",
+            "planeta": "Tierra",
+            "vida": 6000,
+            "image": "https://i.pinimg.com/736x/04/af/6d/04af6d22581fb8d9fa7e9e35ce2c0367.jpg"
+        },
+        "goku ssj blue": {
+            "id": 6,
+            "name": "Goku ssj blue",
+            "raza": "Sayajin",
+            "planeta": "Tierra",
+            "vida": 10000,
+            "image": "https://i.pinimg.com/736x/b8/90/4a/b8904a7fdadb2f698fb4e9985ac2b9d8.jpg"
+        },
+        
+        "vegeta": {
+            "id": 7,
+            "name": "Vegeta",
+            "raza": "Sayajin",
+            "planeta": "Veggeta",
+            "vida": 90,
+            "image": "https://www.clipartmax.com/png/middle/106-1060758_dragon-ball-kai-vegeta-dragon-ball-z-vegeta-scouter.png"
+        },
+        "vegeta ssj": {
+            "id": 8,
+            "name": "Vegeta ssj",
+            "raza": "Sayajin",
+            "planeta": "Veggeta",
+            "vida": 450,
+            "image": "https://i.pinimg.com/originals/60/58/8f/60588f171b2b8b6f42085e75bb0311f8.jpg"
+        },
+        "vegeta ssj 2": {
+            "id": 9,
+            "name": "Vegeta ssj 2",
+            "raza": "Sayajin",
+            "planeta": "Veggeta",
+            "vida": 1400,
+            "image": "https://i.pinimg.com/originals/40/54/73/405473f583c82f97a48da2843624f350.jpg"
+        },
+         "Majin vegeta ": {
+            "id": 9,
+            "name": "Majin Vegeta",
+            "raza": "Sayajin",
+            "planeta": "Veggeta",
+            "vida": 4400,
+            "image": "https://www.pngfind.com/pngs/m/674-6741570_transparent-majin-vegeta-png-majin-vegeta-png-png.png"
+        },
+        "vegeta ssj god": {
+            "id": 10,
+            "name": "Vegeta ssj god",
+            "raza": "Sayajin",
+            "planeta": "Veggeta",
+            "vida": 5400,
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd362a71-bec6-40e9-8c94-4a1ba38f5b70/dcxz8bt-922f0f5c-1847-4f53-bde0-bd42ad22a749.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMzYyYTcxLWJlYzYtNDBlOS04Yzk0LTRhMWJhMzhmNWI3MFwvZGN4ejhidC05MjJmMGY1Yy0xODQ3LTRmNTMtYmRlMC1iZDQyYWQyMmE3NDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FBlxYg5OrfjYv7STLG1dE-ZxDG-PAlXd8Y14tauL6Aw"
+        },
+        "vegeta ssj 4 blue": {
+            "id": 11,
+            "name": "Vegeta  ssj 4 blue",
+            "raza": "Sayajin",
+            "planeta": "Veggeta",
+            "vida": 9400,
+            "image": "https://w7.pngwing.com/pngs/276/468/png-transparent-dragon-ball-super-saiyan-god-instinct-vegeta-illustration-frieza-vegeta-goku-gohan-majin-buu-vegeta-blue-superhero-fictional-character-action-figure.png"
+        },
+
+        "Piccolo Mayunia": {
+            "id": 12,
+            "name": "Piccolo Mayunia",
+            "raza": "Namek",
+            "planeta": "Namekusei",
+            "vida": 50,
+            "image": "https://freepngimg.com/save/107698-piccolo-ball-z-dragon-hq-image-free/820x1098"
+        },
+         "Piccolo": {
+            "id": 13,
+            "name": "Piccolo",
+            "raza": "Namek",
+            "planeta": "Namekusei",
+            "vida": 250,
+            "image": "https://i.pinimg.com/originals/89/de/70/89de70e304a6eefbb34ed5b26dd91b21.png"
+        },
+         "Piccolo Nill": {
+            "id": 14,
+            "name": "Piccolo Nill",
+            "raza": "Namek",
+            "planeta": "Namekusei",
+            "vida": 350,
+            "image": "https://e7.pngegg.com/pngimages/524/601/png-clipart-dragon-ball-piccolo-piccolo-goku-frieza-trunks-dragon-ball-piccolo-purple-superhero-thumbnail.png"
+        },
+        "Piccolo S/M": {
+            "id": 14,
+            "name": "Piccolo S/M",
+            "raza": "Namek",
+            "planeta": "Namekusei",
+            "vida": 650,
+            "image": "https://www.nicepng.com/png/detail/9-97431_piccolo-dragon-ball-z.png"
+        }
+        /*Puedes agregar más usuarios según sea necesario*/
+    }

@@ -1,6 +1,5 @@
 {
-    "users": [
-        {
+   
         "goku": {
             "id": 1,
             "name": "Goku",
@@ -133,6 +132,5 @@
             "image": "https://www.nicepng.com/png/detail/9-97431_piccolo-dragon-ball-z.png"
         }
     
-   }
- ]
+  
 }

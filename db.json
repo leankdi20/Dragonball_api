@@ -134,6 +134,14 @@
             "health": 650,
             "image": "https://www.nicepng.com/png/detail/9-97431_piccolo-dragon-ball-z.png"
         }
+        "Gohan Nameku": {
+            "id": 17,
+            "name": "Gohan Nameku",
+            "race": "Sayajin",
+            "planet": "Earth",
+            "health": 200,
+            "image": "https://i.pinimg.com/736x/10/51/df/1051df5cbfdf0f9921b84804dfa91fe7.jpg"
+        }
     
         }
     ]

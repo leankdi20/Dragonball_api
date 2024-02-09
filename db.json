@@ -10,6 +10,7 @@
             "planet": "Tierra",
             "health": 100,
             "image": "https://e1.pngegg.com/pngimages/928/471/png-clipart-super-goku-de-dragon-ball-z-byagus-9.png"
+        },
          "goku ssj": {
             "id": 2,
             "name": "Goku ssj",
